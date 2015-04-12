@@ -12,7 +12,7 @@ Swiftのスタイルや記法に関するガイドです。個人的に気にな
 ## 目次
 
 - [全般](#全般)
-- [ClassとStructとEnum](#ClassとStructとEnum)
+- [ClassとStructとEnum](#classとstructとenum)
 
 ## 全般
 
